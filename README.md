@@ -1,5 +1,5 @@
-# WhiteOwlToken
-What is Angel Token ?
+# White Owl Token
+##What is Angel Token ?
 
 Meme coins are crypto coins issued for humor and the interest is extremely high.This interest continues until they sell it on the exchanges and make a profit. They start waits for long time when price crashed.usualy havent usable features as be in utility coins
 
@@ -36,7 +36,7 @@ Price affect will reduced. Maybe affect max %3
 
 Swap limitations won't be (limitatations maybe huge in which some projects bases Angel Token project )
 
-Liquidity will provided
+##Liquidity will provided
 Main Chain Coins will be added to liquidity pool and liquidity will be solid. Crypto price will be protect in DEX exchanges.
 
 Usable Features
@@ -49,10 +49,9 @@ HOW WE Share Fırst Angel Token Definiton ?
 Ofcourse While Launch
 
 
-WHITE OWL
-Contract Address
-Why Owl ?
-Athena, known as the sky-eyed in Greek mythology, is the goddess of wisdom and continuous Owl was beside of him. Owl as Athena is symbol of wisdom and intelligence.We want name of first token be is Owl because this project is a genius idea.
 
-Features Of WOWL
+##Why Owl ?
+Athena, known as the sky-eyed in Greek mythology, is the goddess of wisdom and continuous Owl was beside of him. Owl as Athena is symbol of wisdom and intelligence.We want name of first token be is Owl because ##this project is a genius idea.
+
+##Features Of WOWL
 Renewable Liquidity Source
