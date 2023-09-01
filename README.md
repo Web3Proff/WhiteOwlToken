@@ -36,7 +36,7 @@ Price affect will reduced. Maybe affect max %3
 
 Swap limitations won't be (limitatations maybe huge in which some projects bases Angel Token project )
 
-##Liquidity will provided
+## Liquidity will provided
 Main Chain Coins will be added to liquidity pool and liquidity will be solid. Crypto price will be protect in DEX exchanges.
 
 Usable Features
@@ -50,8 +50,8 @@ Ofcourse While Launch
 
 
 
-##Why Owl ?
+## Why Owl ?
 Athena, known as the sky-eyed in Greek mythology, is the goddess of wisdom and continuous Owl was beside of him. Owl as Athena is symbol of wisdom and intelligence.We want name of first token be is Owl because ##this project is a genius idea.
 
-##Features Of WOWL
+## Features Of WOWL
 Renewable Liquidity Source
