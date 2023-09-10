@@ -56,6 +56,6 @@ Ofcourse While Launch
 Athena, known as the sky-eyed in Greek mythology, is the goddess of wisdom and continuous Owl was beside of him. Owl as Athena is symbol of wisdom and intelligence.We want name of first token be is Owl because ##this project is a genius idea.
 
 ## Features Of WOWL
-###Renewable Liquidity Source 
+### Renewable Liquidity Source 
 We will mining coins on our servers. Every coin earned from mining will be converted BNB coin and will be swapping with our tokens in pairs of Pancakeswap then burn WOWL tokens and even if the price falls in centralized exchanges, the price will be protected or up in decentralized exchanges.
 
